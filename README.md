@@ -3,12 +3,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mesutaltuncu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mesutaltuncu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mesutaltuncu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mesutaltuncu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Personal resume:</h3>
 <p align="left">
-<a href="https://mesutaltuncu.dev/" target="blank">
+<a href="https://mesutaltuncu.dev/" target="_blank">
   mesutaltuncu.dev
 </a>
 </p>
