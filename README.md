@@ -8,8 +8,8 @@
 
 <h3 align="left">Personal resume:</h3>
 <p align="left">
-<a href="https://mesutaltuncu.dev/" target="_blank">
-  mesutaltuncu.dev
+<a href="https://mesutaltuncu.com/" target="_blank">
+  mesutaltuncu.com
 </a>
 </p>
 
